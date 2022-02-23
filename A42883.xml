@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Goalers [sic] extortion exposed, or, The Prisoners grievances most humbly offered and submitted to the consideration and regulation of both Houses of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42883</idno>
+            <idno type="STC">Wing G904A</idno>
+            <idno type="STC">ESTC R42052</idno>
+            <idno type="EEBO-CITATION">23292915</idno>
+            <idno type="OCLC">ocm 23292915</idno>
+            <idno type="VID">109535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109535)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1701:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Goalers [sic] extortion exposed, or, The Prisoners grievances most humbly offered and submitted to the consideration and regulation of both Houses of Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and published by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licens'd Octob. 8 1690. J.F."</note>
+                  <note>Reproduction of the original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jails --  England --  Early works to 1800.</term>
+               <term>Prison administration --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109535:1" rendition="simple:additions"/>
+            <head>THE Goalers Extortion Expoſed, OR THE Priſoners Grievances.</head>
+            <head type="sub">Moſt Humbly offered and Submitted to the Conſideration and Regulation of both Houſes of PARLIAMENT.</head>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <p>Licenc'd</p>
+                  <closer>
+                     <dateline>
+                        <date>Octob. 8. 1690.</date>
+                     </dateline> 
+                     <signed>J. F</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>WHereas divers good and wholeſome Laws have been made for the Regulation of Priſons, which for ſeveral years laſt paſt have not been much regarded, but buried ſo as never intended to be revived again, to the great encou<g ref="char:EOLhyphen"/>ragement and encreaſe of Extortion of Fees, Exa<g ref="char:EOLhyphen"/>ction of Chamber-Rent, and many other outragi<g ref="char:EOLhyphen"/>ous practices improper to be Countenanced or Conniv'd at in any good Government: And as the Puniſhing of Vice is the Encreaſe of Virtue, ſo the Reviving and putting the Laws in due Execu<g ref="char:EOLhyphen"/>tion is the Right Adminiſtration of Juſtice, and if Irregularities, Extortions, and ſuch like Law<g ref="char:EOLhyphen"/>leſs Practices have crept in, and be admitted, or allow'd, to be put in Execution in the Priſons in and about <hi>London,</hi> in the hearing of the King and Queen, and within a Call of the Four Courts of Juſtice; then, what muſt the Priſoners in the Country Goals expect, but Ruine, where the Law is, like a Stream, the further it flows from the Fountain Head, the more Corrupt, and the leſs pure it is.</p>
+            <p>THERE was an Act of Parliament made in the 22th. and 23th. of that Moſt Serene, and ne<g ref="char:EOLhyphen"/>ver to be forgotten Prince, King <hi>Charles the Second,</hi> ſetting forth, or preſcribing a time for the two Lord Chief Juſtices, and Lord Chief Barron to Eſtabliſh a Table of Fees in General for all the Priſons in the Kingdom, but that was Omitted, and the time Elapſed, which gave Goalers and Pri<g ref="char:EOLhyphen"/>ſon-keepers the opportunity to exceed much their bounds, who by Raviſhing Exorbitant Sums from the diſtreſſed, and moſt unfortunate part of the Subjects, or People of this Kingdom, have thereby advanced themſelves into vaſt Fortunes and Eſtates, not leaving any thing of Pride, Ambition, or Corruption behind them, that can or may be thought of, in Order to build themſelves upon the Ruines of the diſtreſſed, ſo that whilſt ſuch Inſolencies paſs without curbing, no Juſtice can be expected at the hands of Goalers, in regard they are a ſort of People that bear no reſpect to the Laws of Nature, much leſs to the Laws of the Land, and that Conſider no Mans Quality, Capa<g ref="char:EOLhyphen"/>city, or Poverty, but let what Government ſoe<g ref="char:EOLhyphen"/>ver be uppermoſt (provided that a Goaler has Li<g ref="char:EOLhyphen"/>berty to Tyrannize and Inſult over his Fellow-Creature) he is a Goaler ſtill.</p>
+            <p>AS to the Fees of a Goal it's but a ſingle groat by the Statute-Law, and that is called the Diſ<g ref="char:EOLhyphen"/>charging Fees, and how any Goaler in <hi>England</hi> can demand more is not reſolved by any Act of Parliament in <hi>England;</hi> and how Gaoaler can detain any Priſoner after obtaining a diſcharge for any more Fees then what's granted by Act of Parlia<g ref="char:EOLhyphen"/>ment is beyond any Mans reach to reſolve, neither can all the Judges of the Kingdom, without Viola<g ref="char:EOLhyphen"/>ting the Rights of Parliament, Eſtabliſh Fees, ex<g ref="char:EOLhyphen"/>cept there be an Act of Parliament precedent to ſuch an Eſtabliſhment to Empower them ſo to do.</p>
+            <p>AND whereas Goalers do demand and receive Commitment Fees, there has not been any ſuch Fees ever Eſtabliſhed by Act of Parliament the Laws of <hi>England</hi> being grounded upon Common Reaſon, and therefore it's againſt the Rules of Nature, that a Man dreading a Priſon ſhould pay Fees for Impriſoning himſelf.</p>
+            <p>AS for Chamber-Rent, let's firſt Conſider the Chambers, the number of Beds in each Chamber, and the Furniture of the Rooms, and likewiſe con<g ref="char:EOLhyphen"/>ſider the Conditions, Misfortunes and Calamities that attend a Priſoner, and that it is not the Wealth, nor over-abundance of Fortune that uſhers a Man into a Priſon, and therefore is it rea<g ref="char:EOLhyphen"/>ſonable that any Perſon under diſmal Circumſtan<g ref="char:EOLhyphen"/>ces ſhall be compelled to pay more in a Priſon for Lodging then He or She were wont, or able to pay when at Liberty? or is it reaſonable that a
+<pb facs="tcp:109535:2" rendition="simple:additions"/>pittifull dog-hole in a Priſon ſhall yield Ten, Twenty, or Thirty Shilling a week, that is to ſay, with ſo many Beds in a Room, ſometimes Two, Three, or Four, and two Perſons in a bed, and all the bedding, Bedcloaths and Furniture not worth Forty Shillings in all, when a better Room may be had in any part of <hi>London</hi> or <hi>Weſtminſter</hi> for Two Shilling in the week? or is it Juſtice that a Go let muſt have his full demands, without pro<g ref="char:EOLhyphen"/>ducing his Table of Fees, purſuant to the Laws of the Land? or is it conſiſtent with good Meaſures that a Pint and a half of naſty ſower Ale in a Pri<g ref="char:EOLhyphen"/>ſon ſhall paſs for a full Quart, paying two pence for the ſame, when a full Quart of good Drink may be dayly had into the Priſon for three-half-pence, and likewiſe that a Pint of Brandy in a Priſon ſhould be divided into Six Quarterns, and each Quartern ſold for Three-pence, when a full P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of Brandy may, be had into the Priſon for Seaven-pence. And Notwithſtanding the Statute of the 22th. and 23th. of King <hi>Charles the Second,</hi> made for the Regulation of Priſons ſtrictly charg<g ref="char:EOLhyphen"/>ing and requiring all Goalers to let Meat, Drink, and all other Conveniencies at all Seaſonable hours into the Priſon, the Priſoners paying for the ſame; Yet in Abſolute Obſtruction of the ſaid Act of Par<g ref="char:EOLhyphen"/>liament Goalers dayly deny the letting of Drink or Brandy into the Priſon, but Priſoners are forced to pay for the Liquors in the Houſe or Priſon, at the rates aforeſaid. If this be not Extortion, what is? and if it be, name that Priſon about <hi>London</hi> where it is not dayly practis'd? and where is the Encreaſe of any Man's Fortune by Impriſonment, that a Goaler ſhould thus put upon the Subjects or People of the Kingdom?</p>
+            <p>THE late Change of Government has taugho a great many of all ſorts throughout the Kingdom a great deal of Experience, that were Ignorant of a Priſon before, and perhaps would not believe what hardſhips others have undergone in Priſons before them, 'till they came there to make Expe<g ref="char:EOLhyphen"/>riment themſelves, therefore it ſhould be the In<g ref="char:EOLhyphen"/>tereſt of every Individual Man to give his helping hand towards the Regulation of Priſons, and the Correction of Goalers, for it is believ'd that it ne<g ref="char:EOLhyphen"/>ver was the Intention of the Government to make the Subject's unfortunate Circumſtances the Pro<g ref="char:EOLhyphen"/>perty of Goalers. And to prevent ſuch Future Irre<g ref="char:EOLhyphen"/>gularities (not knowing whoſe turn a Priſon may be next) the Following Heads towards the Regu<g ref="char:EOLhyphen"/>lation of Priſons, are moſt humbly offered to both Houſes of Parliament.</p>
+            <p>
+               <hi>Imprimis.</hi> THAT ſuch Commiſſioners as have no dependance upon any of the Four Courts at <hi>Weſtminſter</hi> be Named and appointed by ſuch a time as the direction of both Houſes ſhall think fit, as well for Enquity of the Extortions and Exacti<g ref="char:EOLhyphen"/>ons Committed ſince their Majeſties General Free Pardon in all the Priſons in and about the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> as alſo to inſpect into the Chambers, Cellars, Rooms, Meaſures, Liquors, Rules, Rates, and Fees of every ſuch Priſon, or Priſons, and to report the ſame upon Oath as e<g ref="char:EOLhyphen"/>ther or both Houſes of Parliament ſhall think meet.</p>
+            <p>
+               <hi>Secondly,</hi> THAT all the Old Extortive Ta<g ref="char:EOLhyphen"/>bles of Fees uſed in any or all of the ſaid Priſons, be brought into the Houſe of Commons, and there Examined and Ordered, as that Honourable Houſe ſhall judge fit.</p>
+            <p>
+               <hi>Thirdly,</hi> THAT that no Goaler ſhall preſume, on the Forfeiture of his Place, to Employ any Pri<g ref="char:EOLhyphen"/>ſoner in any Calling, Imploy or Vocation either by Day or by Night in any Priſon or Priſons what<g ref="char:EOLhyphen"/>ſoever, but procure and Employ ſuch as are free and dread a Priſon.</p>
+            <p>
+               <hi>Fourthly,</hi> THAT no Man that ever has been a Thief, a Robber, a High-way-man, or that was Convicted of any Treaſon, Fellony, Perjury, or Forgery, be admitted into any Employment or Place whatſoever in Priſon or Priſons throughout the Kingdom.</p>
+            <p>
+               <hi>Fifthly,</hi> THAT a Table of Fees be ſet up in a Publick Place in every and either of the ſaid Pri<g ref="char:EOLhyphen"/>ſons, where every Priſoner ſhall have acceſs there<g ref="char:EOLhyphen"/>to, and that no Goaler ſhall preſume, on the For<g ref="char:EOLhyphen"/>feiture of his Place, as aforeſaid, and to be forth<g ref="char:EOLhyphen"/>with Proſecuted in ſuch manner and Order as Both or either Houſes of Parliament ſhall direct, to demand any more Fees or Chamber-Rent then as expreſsly mentioned in the Tables of Fees ſo to be put up in every Priſon, and that no Goaler on the Forfeiture aforeſaid ſhall put any Perſon or Perſons in Irons that do not ſtand Charged with Treaſon, Burglary, or Felony.</p>
+            <p>
+               <hi>Sixthly,</hi> THAT no Goaler ſhall preſume to hinder Friends, Acquaintance, or Relations from any Priſoner or Priſoners whatſoever, except there be an Order of Council, a Warrant from the Se<g ref="char:EOLhyphen"/>cretary of State, or from the Judges, or either of them to the Contrary, and that no Goaler ſhall re<g ref="char:EOLhyphen"/>fuſe to let in at all Seaſonable hours, ſuch Meat, Drink, and other neceſſaries for to ſupport Na<g ref="char:EOLhyphen"/>ture, as any Priſoner ſhall think fit, and that no Priſoner ſhall be compelled to buy any thing with<g ref="char:EOLhyphen"/>in the Priſon, and that the doors ſhall be opened upon all occaſions to let comers and goers in and out of Priſon, at all Seaſonable hours.</p>
+            <p>
+               <hi>Sevently,</hi> THAT no Priſoner ſhall be detain'd in the Houſe or Priſon after he is diſcharged, whe<g ref="char:EOLhyphen"/>ther Crown Priſoner, or Debtor, by any Keeper, or Goaler, paying the Fees according to the rates in the ſaid Table, and that after the diſcharge is obtain'd or had by the Priſoner or Priſoners, that in the interval 'twixt the coming of the diſcharge &amp; paying of the Fees, that no Action or Actions what<g ref="char:EOLhyphen"/>ſoever ſhall lye againſt the Priſoner at the Peril of the Goaler and Forfeiture of his Place, as aforeſaid, and where any Diſpute, Quarrel, or Conteſt ari<g ref="char:EOLhyphen"/>ſeth 'twixt the Goaler and the Priſoner that it ſhall not be left to the Goaler to be Judge in the Caſe, but that it ſhall be referred to two Juſtices of the Peace, whereof one ſhall be named by the Priſoner.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed, and Publiſh'd by <hi>Randal Taylor</hi> near <hi>Stationers-Hall.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
